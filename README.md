@@ -1,1 +1,1 @@
-# Strivers-s-A-Z-DSA-sheet
+# Strivers's-A-Z-DSA-sheet
